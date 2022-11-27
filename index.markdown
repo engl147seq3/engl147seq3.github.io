@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This sentence shows up on the homepage.
